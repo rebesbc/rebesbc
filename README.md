@@ -1,5 +1,5 @@
 ### Hello there! 👋
-- 🍎 I'm currently studying at Tecnológico Nacional de México
+- 🍎 I'm currently working as a Software Engineer
 - 💼 I’m currently working on my web developer skills!
 - 🌱 I’m currently learning JavaScript, Node, Python and some more
 
